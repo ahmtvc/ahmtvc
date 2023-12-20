@@ -1,4 +1,4 @@
-### Hi there 👋, I'm FaceSlap_ aka Activated
+### Hi there 👋, I'm Selmir aka Activated or FaceSlap
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmtvc&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
