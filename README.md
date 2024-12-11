@@ -1,42 +1,7 @@
-### Hi there 👋, I'm Selmir aka Activated or FaceSlap
+👋 Hi, I’m Selmir, a passionate full-stack developer focused on building high-quality, scalable applications. With expertise in React.js, Spring Boot, MongoDB, and Prisma, I thrive on creating seamless user experiences and solving complex problems.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmtvc&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+🔧 I enjoy exploring new technologies, improving my craft, and working on projects that challenge me—whether it’s optimizing performance, implementing real-time communication, or architecting scalable solutions.
 
-📫 How to reach me
-* Discord: Activated_#1539 [ID: 310401939177209866] don't get yourself scammed by impersonators 🐊 
-* MC-Market: https://www.mc-market.org/members/130472/
-* My discord server: [Click to join](https://discord.com/invite/kFUqPAj)
+🌱 Always learning and evolving, I’m keen on experimenting with new ideas and contributing to exciting, impactful projects.
 
-Some projects of me:
-* AquaCore
-* AquaUHC
-* BungeeStaff
-* FateUHC
-* FateMeetup
-* FateHub
-* AquaPunishments
-* BungeeSync
-* Lot of private ones
-
-Currently working and maintaining:
-* AquaCore
-* AquaUHC
-* BungeeStaff
-* ...more private projects
-
-Developer @ [BGHDDevelopment LLC](https://bghddevelopment.com/)
-
-<!--
-**FaceSlap02/FaceSlap02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Check out my repositories to see the projects I’m working on. Let’s connect if you're interested in collaborating or sharing ideas!
