@@ -6,6 +6,6 @@ me—whether it’s optimizing performance, implementing real-time communication
 
 Always learning and evolving, I’m keen on experimenting with new ideas and contributing to exciting, impactful projects.
 
-💻 Check out my repositories to see the projects I’m working on. Let’s connect if you're interested in collaborating or sharing ideas!
+Check out my repositories to see the projects I’m working on. Let’s connect if you're interested in collaborating or sharing ideas!
 
 Telegram at @ahmtvc.
