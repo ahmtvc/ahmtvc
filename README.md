@@ -2,7 +2,7 @@ Hi, I’m Selmir, a passionate full-stack developer focused on building high-qua
 With expertise in React.js, Spring Boot, MongoDB, and more, I thrive on creating seamless user experiences and solving complex problems.
 
 I enjoy exploring new technologies, improving my craft, and working on projects that challenge 
-me—whether it’s optimizing performance, implementing real-time communication, or architecting scalable solutions.
+me, whether it’s optimizing performance, implementing real-time communication, or architecting scalable solutions.
 
 Always learning and evolving, I’m keen on experimenting with new ideas and contributing to exciting, impactful projects.
 
