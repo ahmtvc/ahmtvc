@@ -14,6 +14,6 @@ What I bring to your project:
 - Linux, Docker, CI/CD Pipelines
 - Discord Bots (JDA) - building discord bots using java discord API
 
-Go-to stack: Java (Spring Boot), React.js/Next.js, Tailwind CSS, PostgreSQL/MongoDB, Redis, Docker, Nginx 
+Go-to stack: Java (Spring Boot), React.js/Next.js, Tailwind CSS, PostgreSQL/MongoDB, Redis, Docker, Nginx, Kafka
 
 I take ownership, communicate clearly, and move fast without sacrificing quality. If you’re looking for someone reliable who can build, improve, and scale your product, I’m here to help.
